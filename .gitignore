@@ -1,0 +1,5 @@
+dist/
+build/
+django_case_converter.egg-info/
+
+*.pyc
